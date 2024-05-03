@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\EducationServices\bin\Debug\EducationServices.dll.config
+C:\Users\hp\Desktop\EducationServices\bin\Debug\EducationServices.dll
+C:\Users\hp\Desktop\EducationServices\bin\Debug\EducationServices.pdb
+C:\Users\hp\Desktop\EducationServices\obj\Debug\EducationServices.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\EducationServices\obj\Debug\OrderCourse.g.cs
+C:\Users\hp\Desktop\EducationServices\obj\Debug\EducationServices_MarkupCompile.cache
+C:\Users\hp\Desktop\EducationServices\obj\Debug\EducationServices_MarkupCompile.lref
+C:\Users\hp\Desktop\EducationServices\obj\Debug\OrderCourse.baml
+C:\Users\hp\Desktop\EducationServices\obj\Debug\EducationServices.g.resources
+C:\Users\hp\Desktop\EducationServices\obj\Debug\EducationServices.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\EducationServices\obj\Debug\EducationServices.dll
+C:\Users\hp\Desktop\EducationServices\obj\Debug\EducationServices.pdb
